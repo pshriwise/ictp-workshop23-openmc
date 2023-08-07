@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<settings>
+  <run_mode>eigenvalue</run_mode>
+  <particles>1000</particles>
+  <batches>120</batches>
+  <inactive>20</inactive>
+  <source particle="neutron" strength="1.0" type="independent">
+    <space type="fission">
+      <parameters>-5.0 -5.0 120.0 5.0 5.0 120.0</parameters>
+    </space>
+  </source>
+  <ptables>true</ptables>
+  <temperature_method>nearest</temperature_method>
+  <temperature_tolerance>200</temperature_tolerance>
+</settings>

@@ -1,0 +1,1026 @@
+ ============================>     TALLY 1     <============================
+
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(0,-4)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   16285.9 +/- 685.633
+     Flux                                 0.0775704 +/- 0.00116842
+     Recoverable fission power            16096.2 +/- 669.348
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(1,-4)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   15603.6 +/- 458.552
+     Flux                                 0.0764438 +/- 0.000992188
+     Recoverable fission power            15439.1 +/- 452.435
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(2,-4)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   16053.4 +/- 562.68
+     Flux                                 0.0771288 +/- 0.00106873
+     Recoverable fission power            15879.7 +/- 554.957
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(3,-4)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   16587.8 +/- 523.136
+     Flux                                 0.0792925 +/- 0.000995209
+     Recoverable fission power            16409.6 +/- 515.756
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(4,-4)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   16180.5 +/- 483.497
+     Flux                                 0.0782082 +/- 0.0010476
+     Recoverable fission power            16005.3 +/- 476.757
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(-1,-3)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   16388.2 +/- 520.42
+     Flux                                 0.0785184 +/- 0.000935535
+     Recoverable fission power            16210.1 +/- 511.531
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(0,-3)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   16382.6 +/- 538.864
+     Flux                                 0.0781259 +/- 0.000997403
+     Recoverable fission power            16196.1 +/- 529.602
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(1,-3)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   16579 +/- 511.779
+     Flux                                 0.0772243 +/- 0.000943767
+     Recoverable fission power            16398 +/- 504.182
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(2,-3)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   16658.8 +/- 488.998
+     Flux                                 0.0770648 +/- 0.000966439
+     Recoverable fission power            16481.7 +/- 482.419
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(3,-3)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   17131.4 +/- 532.855
+     Flux                                 0.0775386 +/- 0.000953742
+     Recoverable fission power            16938.6 +/- 524.227
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(4,-3)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   16664.9 +/- 484.865
+     Flux                                 0.0774408 +/- 0.00100094
+     Recoverable fission power            16480.3 +/- 477.601
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(-2,-2)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   15824.2 +/- 503.306
+     Flux                                 0.0768474 +/- 0.000994627
+     Recoverable fission power            15653.7 +/- 496.355
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(-1,-2)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   15739.1 +/- 498.832
+     Flux                                 0.0770172 +/- 0.000981556
+     Recoverable fission power            15570 +/- 490.894
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(0,-2)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   16974.9 +/- 563.35
+     Flux                                 0.0781085 +/- 0.000946158
+     Recoverable fission power            16786.6 +/- 553.666
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(1,-2)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   16954.9 +/- 537.792
+     Flux                                 0.0776085 +/- 0.00100968
+     Recoverable fission power            16768.7 +/- 530.264
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(2,-2)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   16337.3 +/- 519.857
+     Flux                                 0.0783322 +/- 0.00101837
+     Recoverable fission power            16164.6 +/- 512.553
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(3,-2)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   16256.5 +/- 530.706
+     Flux                                 0.0770859 +/- 0.00100721
+     Recoverable fission power            16077.7 +/- 522.951
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(4,-2)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   17557.3 +/- 527.547
+     Flux                                 0.0769779 +/- 0.00105798
+     Recoverable fission power            17360 +/- 520.386
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(-3,-1)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   16073 +/- 571.77
+     Flux                                 0.0773888 +/- 0.00100113
+     Recoverable fission power            15897 +/- 564.07
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(-2,-1)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   15864.3 +/- 504.858
+     Flux                                 0.0762195 +/- 0.00101292
+     Recoverable fission power            15693.1 +/- 498.223
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(-1,-1)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   17091.6 +/- 550.517
+     Flux                                 0.0760214 +/- 0.000970999
+     Recoverable fission power            16899.2 +/- 542.623
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(0,-1)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   16279.3 +/- 505.233
+     Flux                                 0.0770731 +/- 0.000937448
+     Recoverable fission power            16103.7 +/- 497.722
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(1,-1)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   16491.6 +/- 520.04
+     Flux                                 0.0768615 +/- 0.000886588
+     Recoverable fission power            16311.9 +/- 513.172
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(2,-1)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   16270.6 +/- 467.468
+     Flux                                 0.0774688 +/- 0.00102826
+     Recoverable fission power            16100.1 +/- 462.101
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(3,-1)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   16801.6 +/- 542.786
+     Flux                                 0.0771229 +/- 0.000991544
+     Recoverable fission power            16615.5 +/- 535.097
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(4,-1)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   16637.8 +/- 548.191
+     Flux                                 0.0768997 +/- 0.000978798
+     Recoverable fission power            16454.1 +/- 540.325
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(-4,0)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   15489.2 +/- 614.694
+     Flux                                 0.076053 +/- 0.000945288
+     Recoverable fission power            15319.8 +/- 603.749
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(-3,0)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   15963.4 +/- 475.775
+     Flux                                 0.0766258 +/- 0.000974249
+     Recoverable fission power            15791.9 +/- 469.019
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(-2,0)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   17325.8 +/- 539.484
+     Flux                                 0.0772174 +/- 0.00109011
+     Recoverable fission power            17130 +/- 531.096
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(-1,0)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   16464 +/- 517.76
+     Flux                                 0.0763007 +/- 0.000935564
+     Recoverable fission power            16284.6 +/- 510.213
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(0,0)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   15900.3 +/- 538.796
+     Flux                                 0.0764125 +/- 0.00099717
+     Recoverable fission power            15732.3 +/- 531.704
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(1,0)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   16353.6 +/- 491.694
+     Flux                                 0.0763651 +/- 0.000874108
+     Recoverable fission power            16169.6 +/- 484.229
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(2,0)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   16466.4 +/- 536.458
+     Flux                                 0.0765096 +/- 0.00106372
+     Recoverable fission power            16280 +/- 528.137
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(3,0)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   17036.4 +/- 498.876
+     Flux                                 0.0769909 +/- 0.000996155
+     Recoverable fission power            16843.9 +/- 491.836
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(4,0)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   16271 +/- 497.551
+     Flux                                 0.0769879 +/- 0.0010943
+     Recoverable fission power            16092.9 +/- 489.687
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(-4,1)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   16703.1 +/- 545.142
+     Flux                                 0.0761793 +/- 0.000948039
+     Recoverable fission power            16522.4 +/- 537.029
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(-3,1)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   15834.3 +/- 466.065
+     Flux                                 0.0765119 +/- 0.000977616
+     Recoverable fission power            15669.6 +/- 458.956
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(-2,1)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   16262.6 +/- 608.919
+     Flux                                 0.0768333 +/- 0.0010516
+     Recoverable fission power            16089.1 +/- 600.616
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(-1,1)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   15655.3 +/- 500.062
+     Flux                                 0.075585 +/- 0.00102782
+     Recoverable fission power            15488 +/- 492.966
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(0,1)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   16571.5 +/- 528.358
+     Flux                                 0.076986 +/- 0.00105522
+     Recoverable fission power            16396.5 +/- 521.751
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(1,1)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   16201.2 +/- 527.105
+     Flux                                 0.0764235 +/- 0.000993341
+     Recoverable fission power            16022.2 +/- 518.984
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(2,1)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   16141.6 +/- 507.761
+     Flux                                 0.0762625 +/- 0.00108815
+     Recoverable fission power            15967 +/- 500.153
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(3,1)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   15768.1 +/- 453.884
+     Flux                                 0.0763578 +/- 0.000978832
+     Recoverable fission power            15594.4 +/- 446.821
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(-4,2)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   16212.6 +/- 514.353
+     Flux                                 0.0757969 +/- 0.000973407
+     Recoverable fission power            16037.6 +/- 506.608
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(-3,2)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   15953 +/- 480.373
+     Flux                                 0.0758498 +/- 0.000956193
+     Recoverable fission power            15781.9 +/- 472.871
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(-2,2)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   17211.4 +/- 569.63
+     Flux                                 0.0771778 +/- 0.00102882
+     Recoverable fission power            17024.9 +/- 561.857
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(-1,2)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   15971 +/- 508.446
+     Flux                                 0.0757976 +/- 0.00098568
+     Recoverable fission power            15792.3 +/- 500.937
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(0,2)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   15805.3 +/- 498.898
+     Flux                                 0.0753191 +/- 0.00080607
+     Recoverable fission power            15628.4 +/- 490.73
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(1,2)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   15949.7 +/- 526.852
+     Flux                                 0.0767822 +/- 0.000986821
+     Recoverable fission power            15777.4 +/- 519.813
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(2,2)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   16082.2 +/- 502.054
+     Flux                                 0.0773763 +/- 0.00105311
+     Recoverable fission power            15913.7 +/- 495.976
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(-4,3)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   15817.4 +/- 461.038
+     Flux                                 0.0767864 +/- 0.00098728
+     Recoverable fission power            15643.9 +/- 454.543
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(-3,3)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   16037 +/- 518.64
+     Flux                                 0.0760494 +/- 0.000967647
+     Recoverable fission power            15857.1 +/- 510.99
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(-2,3)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   15758.7 +/- 514.67
+     Flux                                 0.075556 +/- 0.000934389
+     Recoverable fission power            15582.9 +/- 506.577
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(-1,3)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   15584 +/- 508.237
+     Flux                                 0.0755451 +/- 0.00088322
+     Recoverable fission power            15413.6 +/- 500.492
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(0,3)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   15800.7 +/- 443.012
+     Flux                                 0.0749786 +/- 0.000933838
+     Recoverable fission power            15629.6 +/- 436.857
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(1,3)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   16491.1 +/- 478.93
+     Flux                                 0.0776571 +/- 0.000946129
+     Recoverable fission power            16311.6 +/- 471.789
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(-4,4)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   15889.7 +/- 526.332
+     Flux                                 0.0768225 +/- 0.000981703
+     Recoverable fission power            15712.2 +/- 517.529
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(-3,4)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   16445.3 +/- 554.83
+     Flux                                 0.0761949 +/- 0.00104275
+     Recoverable fission power            16256.3 +/- 546.218
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(-2,4)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   16189.3 +/- 494.18
+     Flux                                 0.0767189 +/- 0.000914313
+     Recoverable fission power            16010.9 +/- 487.492
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(-1,4)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   16126.3 +/- 502.943
+     Flux                                 0.0755452 +/- 0.000910919
+     Recoverable fission power            15955.4 +/- 496.316
+ Distributed Cell u33->c74->l32(0,0)->u31->c68->u21->c44->l20(0,4)->u4->c7
+   Total Material
+     Kappa-Fission Rate                   16095.4 +/- 549.092
+     Flux                                 0.0755105 +/- 0.00102053
+     Recoverable fission power            15919.3 +/- 540.848
+ ============================>     TALLY 2     <============================
+
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(0,-4)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.93454e+06 +/- 9401.72
+     Flux                                 0.434627 +/- 0.00184835
+     Recoverable fission power            1.92807e+06 +/- 9391.29
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(1,-4)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.95569e+06 +/- 9681.47
+     Flux                                 0.43941 +/- 0.00191757
+     Recoverable fission power            1.94921e+06 +/- 9656.4
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(2,-4)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.95513e+06 +/- 9932.79
+     Flux                                 0.438462 +/- 0.00189247
+     Recoverable fission power            1.94869e+06 +/- 9909.35
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(3,-4)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.94596e+06 +/- 10191
+     Flux                                 0.437843 +/- 0.00212008
+     Recoverable fission power            1.9395e+06 +/- 10164.5
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(4,-4)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.94672e+06 +/- 11103.2
+     Flux                                 0.437294 +/- 0.00205244
+     Recoverable fission power            1.94028e+06 +/- 11079.6
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(-1,-3)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.94996e+06 +/- 10310.1
+     Flux                                 0.439178 +/- 0.001928
+     Recoverable fission power            1.94341e+06 +/- 10289.7
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(0,-3)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.93165e+06 +/- 9789.14
+     Flux                                 0.435252 +/- 0.00181833
+     Recoverable fission power            1.92515e+06 +/- 9773.07
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(1,-3)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.9501e+06 +/- 9989.91
+     Flux                                 0.438037 +/- 0.00195188
+     Recoverable fission power            1.9436e+06 +/- 9973.26
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(2,-3)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.93856e+06 +/- 10410
+     Flux                                 0.435097 +/- 0.00204988
+     Recoverable fission power            1.93212e+06 +/- 10386
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(3,-3)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.94866e+06 +/- 9490.87
+     Flux                                 0.439064 +/- 0.00194716
+     Recoverable fission power            1.9421e+06 +/- 9467.65
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(4,-3)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.9371e+06 +/- 9891.99
+     Flux                                 0.436485 +/- 0.0019677
+     Recoverable fission power            1.93059e+06 +/- 9874.9
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(-2,-2)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.93617e+06 +/- 9434.2
+     Flux                                 0.435698 +/- 0.00194001
+     Recoverable fission power            1.92975e+06 +/- 9416.17
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(-1,-2)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.92603e+06 +/- 9350.14
+     Flux                                 0.433927 +/- 0.00193345
+     Recoverable fission power            1.91961e+06 +/- 9325.96
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(0,-2)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.92823e+06 +/- 8595.67
+     Flux                                 0.435649 +/- 0.00178625
+     Recoverable fission power            1.92169e+06 +/- 8577.44
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(1,-2)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.9419e+06 +/- 10418.5
+     Flux                                 0.437096 +/- 0.00205723
+     Recoverable fission power            1.93537e+06 +/- 10399.8
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(2,-2)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.9306e+06 +/- 8533.36
+     Flux                                 0.435362 +/- 0.00171088
+     Recoverable fission power            1.92404e+06 +/- 8518.34
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(3,-2)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.92838e+06 +/- 9888.52
+     Flux                                 0.434538 +/- 0.00187107
+     Recoverable fission power            1.92187e+06 +/- 9873.67
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(4,-2)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.93953e+06 +/- 10310
+     Flux                                 0.436098 +/- 0.00202844
+     Recoverable fission power            1.93301e+06 +/- 10285.4
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(-3,-1)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.92879e+06 +/- 9378.84
+     Flux                                 0.435121 +/- 0.0018881
+     Recoverable fission power            1.92231e+06 +/- 9351.75
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(-2,-1)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.92589e+06 +/- 9208.65
+     Flux                                 0.434345 +/- 0.00175821
+     Recoverable fission power            1.91938e+06 +/- 9190.18
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(-1,-1)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.93373e+06 +/- 8755.87
+     Flux                                 0.43616 +/- 0.00177339
+     Recoverable fission power            1.92714e+06 +/- 8736.99
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(0,-1)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.93059e+06 +/- 9569.75
+     Flux                                 0.434762 +/- 0.00203399
+     Recoverable fission power            1.92403e+06 +/- 9554.01
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(1,-1)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.9455e+06 +/- 9260.71
+     Flux                                 0.438336 +/- 0.00179285
+     Recoverable fission power            1.9389e+06 +/- 9241.91
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(2,-1)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.92142e+06 +/- 9026.29
+     Flux                                 0.434026 +/- 0.00183357
+     Recoverable fission power            1.91486e+06 +/- 9011.68
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(3,-1)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.92788e+06 +/- 9663.85
+     Flux                                 0.435141 +/- 0.00185316
+     Recoverable fission power            1.92137e+06 +/- 9650.73
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(4,-1)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.94717e+06 +/- 10622.2
+     Flux                                 0.437693 +/- 0.00200125
+     Recoverable fission power            1.94066e+06 +/- 10612.2
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(-4,0)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.93453e+06 +/- 9436.5
+     Flux                                 0.436181 +/- 0.00181999
+     Recoverable fission power            1.92812e+06 +/- 9413.09
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(-3,0)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.94833e+06 +/- 8758.37
+     Flux                                 0.438107 +/- 0.00185806
+     Recoverable fission power            1.94181e+06 +/- 8741.7
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(-2,0)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.94206e+06 +/- 9109.84
+     Flux                                 0.438489 +/- 0.00186578
+     Recoverable fission power            1.93547e+06 +/- 9088.1
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(-1,0)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.94236e+06 +/- 9797.68
+     Flux                                 0.436921 +/- 0.00193652
+     Recoverable fission power            1.93586e+06 +/- 9783.64
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(0,0)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.92538e+06 +/- 9130.61
+     Flux                                 0.433787 +/- 0.00166654
+     Recoverable fission power            1.9189e+06 +/- 9115.08
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(1,0)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.93081e+06 +/- 9473.33
+     Flux                                 0.436536 +/- 0.00205182
+     Recoverable fission power            1.92432e+06 +/- 9458.78
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(2,0)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.93009e+06 +/- 9075.65
+     Flux                                 0.434784 +/- 0.00169816
+     Recoverable fission power            1.92364e+06 +/- 9062.32
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(3,0)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.95e+06 +/- 9123.23
+     Flux                                 0.438835 +/- 0.00178062
+     Recoverable fission power            1.94343e+06 +/- 9114.67
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(4,0)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.9438e+06 +/- 11383.9
+     Flux                                 0.437896 +/- 0.00227869
+     Recoverable fission power            1.93736e+06 +/- 11363.6
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(-4,1)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.94509e+06 +/- 9309.36
+     Flux                                 0.438351 +/- 0.00177045
+     Recoverable fission power            1.93857e+06 +/- 9283.48
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(-3,1)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.95463e+06 +/- 9513.09
+     Flux                                 0.439679 +/- 0.00197609
+     Recoverable fission power            1.94807e+06 +/- 9488.47
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(-2,1)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.94146e+06 +/- 9510.58
+     Flux                                 0.437065 +/- 0.00194509
+     Recoverable fission power            1.9349e+06 +/- 9495.49
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(-1,1)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.93893e+06 +/- 9208.59
+     Flux                                 0.435901 +/- 0.00196118
+     Recoverable fission power            1.93242e+06 +/- 9184.07
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(0,1)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.93866e+06 +/- 9263.35
+     Flux                                 0.43723 +/- 0.00180405
+     Recoverable fission power            1.93212e+06 +/- 9245.89
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(1,1)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.94385e+06 +/- 8933.83
+     Flux                                 0.436459 +/- 0.00177633
+     Recoverable fission power            1.9373e+06 +/- 8925.33
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(2,1)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.94952e+06 +/- 10175.5
+     Flux                                 0.438476 +/- 0.00185489
+     Recoverable fission power            1.943e+06 +/- 10154
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(3,1)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.93987e+06 +/- 10349.8
+     Flux                                 0.437495 +/- 0.00224864
+     Recoverable fission power            1.93347e+06 +/- 10326.3
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(-4,2)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.94428e+06 +/- 10320
+     Flux                                 0.437208 +/- 0.00201259
+     Recoverable fission power            1.93782e+06 +/- 10293.6
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(-3,2)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.95475e+06 +/- 9509.64
+     Flux                                 0.440109 +/- 0.00185406
+     Recoverable fission power            1.94833e+06 +/- 9499.49
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(-2,2)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.95224e+06 +/- 10129
+     Flux                                 0.440423 +/- 0.00200705
+     Recoverable fission power            1.94568e+06 +/- 10104.2
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(-1,2)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.93837e+06 +/- 8248.75
+     Flux                                 0.43648 +/- 0.00171994
+     Recoverable fission power            1.93182e+06 +/- 8227.47
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(0,2)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.93877e+06 +/- 9287.31
+     Flux                                 0.437774 +/- 0.00191023
+     Recoverable fission power            1.9322e+06 +/- 9278.72
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(1,2)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.94992e+06 +/- 7412.97
+     Flux                                 0.438208 +/- 0.00162163
+     Recoverable fission power            1.94341e+06 +/- 7397.62
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(2,2)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.94516e+06 +/- 9045.48
+     Flux                                 0.436212 +/- 0.00175324
+     Recoverable fission power            1.93873e+06 +/- 9025.09
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(-4,3)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.94674e+06 +/- 10364
+     Flux                                 0.436562 +/- 0.00205676
+     Recoverable fission power            1.94036e+06 +/- 10337.9
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(-3,3)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.93791e+06 +/- 9680.76
+     Flux                                 0.437062 +/- 0.00196973
+     Recoverable fission power            1.93146e+06 +/- 9664.3
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(-2,3)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.92387e+06 +/- 10620.6
+     Flux                                 0.43483 +/- 0.00208158
+     Recoverable fission power            1.91744e+06 +/- 10598.3
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(-1,3)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.94009e+06 +/- 8559.96
+     Flux                                 0.43677 +/- 0.00153236
+     Recoverable fission power            1.93363e+06 +/- 8545.08
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(0,3)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.94016e+06 +/- 9279.7
+     Flux                                 0.438285 +/- 0.00192071
+     Recoverable fission power            1.93359e+06 +/- 9260.36
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(1,3)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.949e+06 +/- 8925.96
+     Flux                                 0.437787 +/- 0.00173597
+     Recoverable fission power            1.94252e+06 +/- 8921.04
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(-4,4)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.93045e+06 +/- 10300.8
+     Flux                                 0.434413 +/- 0.00208404
+     Recoverable fission power            1.92408e+06 +/- 10280.3
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(-3,4)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.94157e+06 +/- 9897.46
+     Flux                                 0.435609 +/- 0.00200237
+     Recoverable fission power            1.93512e+06 +/- 9881.23
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(-2,4)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.94537e+06 +/- 10543.4
+     Flux                                 0.437401 +/- 0.00211488
+     Recoverable fission power            1.9389e+06 +/- 10524.4
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(-1,4)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.9383e+06 +/- 8898.88
+     Flux                                 0.437049 +/- 0.00169208
+     Recoverable fission power            1.93185e+06 +/- 8884.83
+ Distributed Cell u33->c74->l32(0,0)->u31->c69->u23->c47->l22(0,4)->u5->c12
+   Total Material
+     Kappa-Fission Rate                   1.93567e+06 +/- 10022.9
+     Flux                                 0.435357 +/- 0.00200268
+     Recoverable fission power            1.92922e+06 +/- 10009.4
+ ============================>     TALLY 3     <============================
+
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(0,-4)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   24269.2 +/- 688.112
+     Flux                                 0.133906 +/- 0.0016406
+     Recoverable fission power            24025.2 +/- 679.101
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(1,-4)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   24049.9 +/- 638.617
+     Flux                                 0.135763 +/- 0.00162334
+     Recoverable fission power            23803 +/- 629.853
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(2,-4)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   23298.1 +/- 577.813
+     Flux                                 0.133032 +/- 0.0015639
+     Recoverable fission power            23063.9 +/- 570.516
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(3,-4)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   22887.5 +/- 591.702
+     Flux                                 0.133731 +/- 0.00163637
+     Recoverable fission power            22664.7 +/- 584.148
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(4,-4)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   22241 +/- 643.047
+     Flux                                 0.134275 +/- 0.00154792
+     Recoverable fission power            22033.2 +/- 634.433
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(-1,-3)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   22912.4 +/- 582.093
+     Flux                                 0.134507 +/- 0.00161923
+     Recoverable fission power            22682.4 +/- 574.403
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(0,-3)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   23178.5 +/- 578.735
+     Flux                                 0.134196 +/- 0.00147159
+     Recoverable fission power            22956.4 +/- 571.252
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(1,-3)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   22904 +/- 633.201
+     Flux                                 0.133822 +/- 0.00149941
+     Recoverable fission power            22680.9 +/- 624.728
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(2,-3)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   22719.3 +/- 526.308
+     Flux                                 0.133401 +/- 0.00145488
+     Recoverable fission power            22502.2 +/- 519.685
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(3,-3)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   22401.5 +/- 570.852
+     Flux                                 0.13352 +/- 0.00153919
+     Recoverable fission power            22180.6 +/- 562.891
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(4,-3)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   22963 +/- 574.86
+     Flux                                 0.133134 +/- 0.00155349
+     Recoverable fission power            22745.2 +/- 566.613
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(-2,-2)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   23634.7 +/- 662.965
+     Flux                                 0.13538 +/- 0.00155485
+     Recoverable fission power            23405.6 +/- 653.81
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(-1,-2)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   23868.1 +/- 635.494
+     Flux                                 0.135518 +/- 0.00157601
+     Recoverable fission power            23625.7 +/- 626.004
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(0,-2)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   23158.8 +/- 579.344
+     Flux                                 0.134982 +/- 0.00149495
+     Recoverable fission power            22931.6 +/- 572.021
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(1,-2)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   22050.1 +/- 594.373
+     Flux                                 0.133872 +/- 0.00165156
+     Recoverable fission power            21849.3 +/- 586.116
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(2,-2)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   22670 +/- 621.624
+     Flux                                 0.133019 +/- 0.00165301
+     Recoverable fission power            22448.8 +/- 613.813
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(3,-2)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   23693.8 +/- 694.705
+     Flux                                 0.132201 +/- 0.00157973
+     Recoverable fission power            23456.2 +/- 685.713
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(4,-2)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   22580 +/- 603.379
+     Flux                                 0.133958 +/- 0.00147745
+     Recoverable fission power            22363.4 +/- 593.972
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(-3,-1)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   22698.9 +/- 643.903
+     Flux                                 0.132319 +/- 0.00145342
+     Recoverable fission power            22476.3 +/- 635.179
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(-2,-1)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   22543.8 +/- 653.009
+     Flux                                 0.133192 +/- 0.00146717
+     Recoverable fission power            22324.8 +/- 643.8
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(-1,-1)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   23223 +/- 668.715
+     Flux                                 0.133985 +/- 0.00155972
+     Recoverable fission power            22995 +/- 660.027
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(0,-1)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   22202.5 +/- 546.172
+     Flux                                 0.133877 +/- 0.00145786
+     Recoverable fission power            21989 +/- 538.66
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(1,-1)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   22394.5 +/- 623.941
+     Flux                                 0.13262 +/- 0.00145159
+     Recoverable fission power            22180.9 +/- 615.885
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(2,-1)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   23099.6 +/- 581.735
+     Flux                                 0.133959 +/- 0.00171614
+     Recoverable fission power            22868.7 +/- 574.178
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(3,-1)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   23538.7 +/- 686.107
+     Flux                                 0.13447 +/- 0.00144328
+     Recoverable fission power            23306.5 +/- 677.042
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(4,-1)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   23505.4 +/- 654.06
+     Flux                                 0.133723 +/- 0.00161384
+     Recoverable fission power            23274.7 +/- 645.467
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(-4,0)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   23691.3 +/- 681.193
+     Flux                                 0.13276 +/- 0.00155562
+     Recoverable fission power            23448.9 +/- 672.052
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(-3,0)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   22431.6 +/- 635.129
+     Flux                                 0.131972 +/- 0.00148182
+     Recoverable fission power            22214.3 +/- 625.981
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(-2,0)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   23010.6 +/- 571.69
+     Flux                                 0.134292 +/- 0.00155212
+     Recoverable fission power            22781 +/- 564.158
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(-1,0)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   23181.4 +/- 602.08
+     Flux                                 0.133456 +/- 0.00146746
+     Recoverable fission power            22955.8 +/- 593.744
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(0,0)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   22908.1 +/- 615.93
+     Flux                                 0.132818 +/- 0.00164579
+     Recoverable fission power            22680.4 +/- 607.183
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(1,0)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   22886 +/- 625.661
+     Flux                                 0.134381 +/- 0.00151819
+     Recoverable fission power            22659.7 +/- 616.95
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(2,0)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   22594.1 +/- 618.96
+     Flux                                 0.132175 +/- 0.0015285
+     Recoverable fission power            22376.2 +/- 611.022
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(3,0)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   23438.5 +/- 602.642
+     Flux                                 0.130989 +/- 0.00157825
+     Recoverable fission power            23209.3 +/- 595.4
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(4,0)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   22677 +/- 652.633
+     Flux                                 0.133215 +/- 0.00181807
+     Recoverable fission power            22454.8 +/- 643.362
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(-4,1)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   22334 +/- 599.065
+     Flux                                 0.133556 +/- 0.00147621
+     Recoverable fission power            22113.9 +/- 591.98
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(-3,1)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   23735.8 +/- 665.354
+     Flux                                 0.13413 +/- 0.00165269
+     Recoverable fission power            23491.2 +/- 656.477
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(-2,1)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   22495.3 +/- 619.306
+     Flux                                 0.134741 +/- 0.00155306
+     Recoverable fission power            22286.5 +/- 611.341
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(-1,1)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   22756.2 +/- 642.822
+     Flux                                 0.133973 +/- 0.00164503
+     Recoverable fission power            22535.8 +/- 634.902
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(0,1)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   22805.6 +/- 590.711
+     Flux                                 0.133592 +/- 0.00152674
+     Recoverable fission power            22586.1 +/- 582.717
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(1,1)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   22968.3 +/- 602.849
+     Flux                                 0.134104 +/- 0.00154816
+     Recoverable fission power            22747 +/- 593.723
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(2,1)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   22709.1 +/- 614.706
+     Flux                                 0.133588 +/- 0.00160139
+     Recoverable fission power            22491.3 +/- 606.719
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(3,1)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   22539.7 +/- 664.181
+     Flux                                 0.132932 +/- 0.00158098
+     Recoverable fission power            22322.8 +/- 654.292
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(-4,2)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   22878.7 +/- 622.748
+     Flux                                 0.134261 +/- 0.0015448
+     Recoverable fission power            22653.5 +/- 614.157
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(-3,2)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   22892.8 +/- 676.417
+     Flux                                 0.133946 +/- 0.00164859
+     Recoverable fission power            22665 +/- 666.481
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(-2,2)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   23272 +/- 607.691
+     Flux                                 0.133228 +/- 0.00156957
+     Recoverable fission power            23047.9 +/- 599.921
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(-1,2)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   22196.1 +/- 537.478
+     Flux                                 0.131302 +/- 0.00146003
+     Recoverable fission power            21975.4 +/- 529.864
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(0,2)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   22504.5 +/- 625.343
+     Flux                                 0.133078 +/- 0.00169509
+     Recoverable fission power            22284.3 +/- 616.486
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(1,2)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   23076.6 +/- 593.563
+     Flux                                 0.134224 +/- 0.00155302
+     Recoverable fission power            22845.7 +/- 585.167
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(2,2)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   22498.4 +/- 550.989
+     Flux                                 0.131839 +/- 0.00151782
+     Recoverable fission power            22284.4 +/- 543.54
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(-4,3)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   23273.6 +/- 705.132
+     Flux                                 0.133251 +/- 0.00147588
+     Recoverable fission power            23040.4 +/- 695.117
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(-3,3)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   22431.1 +/- 626.317
+     Flux                                 0.132748 +/- 0.00155621
+     Recoverable fission power            22208.5 +/- 617.221
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(-2,3)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   22809.3 +/- 671.601
+     Flux                                 0.132671 +/- 0.00145582
+     Recoverable fission power            22583.2 +/- 662.138
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(-1,3)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   22713.9 +/- 576.357
+     Flux                                 0.132683 +/- 0.00162284
+     Recoverable fission power            22492.1 +/- 569.136
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(0,3)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   23327.9 +/- 625.156
+     Flux                                 0.134125 +/- 0.00154883
+     Recoverable fission power            23093.4 +/- 616.578
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(1,3)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   24239.6 +/- 597.537
+     Flux                                 0.133807 +/- 0.00148648
+     Recoverable fission power            23992 +/- 587.587
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(-4,4)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   22267.2 +/- 663.073
+     Flux                                 0.133335 +/- 0.00162335
+     Recoverable fission power            22051.3 +/- 654.176
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(-3,4)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   22816.2 +/- 701.538
+     Flux                                 0.132895 +/- 0.00150426
+     Recoverable fission power            22594.1 +/- 692.959
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(-2,4)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   23519.2 +/- 652.184
+     Flux                                 0.13367 +/- 0.00146614
+     Recoverable fission power            23282 +/- 642.744
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(-1,4)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   23582.7 +/- 636.646
+     Flux                                 0.133514 +/- 0.00160067
+     Recoverable fission power            23353.9 +/- 628.228
+ Distributed Cell u33->c74->l32(0,0)->u31->c70->u25->c50->l24(0,4)->u6->c16
+   Total Material
+     Kappa-Fission Rate                   23121.6 +/- 620.185
+     Flux                                 0.132851 +/- 0.00171342
+     Recoverable fission power            22892.8 +/- 611.594
+ ============================>     TALLY 4     <============================
+
+ Incoming Energy [1e-05, 0.41746)
+   Total Material
+     Flux                                 0.00763914 +/- 0.00156911
+ Incoming Energy [0.41746, 0.53158)
+   Total Material
+     Flux                                 0.00756588 +/- 0.00125518
+ Incoming Energy [0.53158, 3.9279)
+   Total Material
+     Flux                                 0.331466 +/- 0.016517
+ Incoming Energy [3.9279, 8.3153)
+   Total Material
+     Flux                                 0.333405 +/- 0.012569
+ Incoming Energy [8.3153, 13.71)
+   Total Material
+     Flux                                 0.331621 +/- 0.0111698
+ Incoming Energy [13.71, 22.603)
+   Total Material
+     Flux                                 0.405942 +/- 0.0110105
+ Incoming Energy [22.603, 37.267)
+   Total Material
+     Flux                                 0.52361 +/- 0.0128593
+ Incoming Energy [37.267, 61.442)
+   Total Material
+     Flux                                 0.703993 +/- 0.0140901
+ Incoming Energy [61.442, 101.3)
+   Total Material
+     Flux                                 0.953063 +/- 0.0178615
+ Incoming Energy [101.3, 167.02)
+   Total Material
+     Flux                                 1.1685 +/- 0.0197692
+ Incoming Energy [167.02, 275.36)
+   Total Material
+     Flux                                 1.39542 +/- 0.022481
+ Incoming Energy [275.36, 454)
+   Total Material
+     Flux                                 1.25781 +/- 0.0194873
+ Incoming Energy [454, 748.52)
+   Total Material
+     Flux                                 2.16968 +/- 0.0321183
+ Incoming Energy [748.52, 1234.1)
+   Total Material
+     Flux                                 2.6031 +/- 0.0313884
+ Incoming Energy [1234.1, 2034.7)
+   Total Material
+     Flux                                 3.00413 +/- 0.0286135
+ Incoming Energy [2034.7, 3354.6)
+   Total Material
+     Flux                                 0.8891 +/- 0.00914491
+ Incoming Energy [3354.6, 5530.8)
+   Total Material
+     Flux                                 2.34852 +/- 0.0193024
+ Incoming Energy [5530.8, 9118.8)
+   Total Material
+     Flux                                 3.33816 +/- 0.0264715
+ Incoming Energy [9118.8, 15034)
+   Total Material
+     Flux                                 5.64351 +/- 0.0393578
+ Incoming Energy [15034, 24787)
+   Total Material
+     Flux                                 7.69941 +/- 0.0509099
+ Incoming Energy [24787, 40868)
+   Total Material
+     Flux                                 8.56758 +/- 0.0465671
+ Incoming Energy [40868, 67379)
+   Total Material
+     Flux                                 11.5094 +/- 0.0610465
+ Incoming Energy [67379, 111090)
+   Total Material
+     Flux                                 14.4252 +/- 0.0612245
+ Incoming Energy [111090, 183160)
+   Total Material
+     Flux                                 17.4299 +/- 0.0848255
+ Incoming Energy [183160, 301970)
+   Total Material
+     Flux                                 16.5327 +/- 0.0732007
+ Incoming Energy [301970, 497870)
+   Total Material
+     Flux                                 13.9821 +/- 0.0708876
+ Incoming Energy [497870, 820850)
+   Total Material
+     Flux                                 15.126 +/- 0.0764141
+ Incoming Energy [820850, 1353400)
+   Total Material
+     Flux                                 8.63272 +/- 0.0534909
+ Incoming Energy [1353400, 2231300)
+   Total Material
+     Flux                                 7.01005 +/- 0.0510353
+ Incoming Energy [2231300, 3678800)
+   Total Material
+     Flux                                 4.80656 +/- 0.0446215
+ Incoming Energy [3678800, 6065300)
+   Total Material
+     Flux                                 1.88209 +/- 0.0234423
+ Incoming Energy [6065300, 10000000)
+   Total Material
+     Flux                                 0.371926 +/- 0.0109054
+ Incoming Energy [10000000, 14191000)
+   Total Material
+     Flux                                 0.0164703 +/- 0.00213238
+ ============================>     TALLY 5     <============================
+
+ Total Material
+   Kappa-Fission Rate                   1.20733e+08 +/- 314923
