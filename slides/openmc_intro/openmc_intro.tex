@@ -104,7 +104,7 @@
   \begin{itemize}
     \item You will be using \textbf{Jupyter Lab} for demonstrations and
     (optionally) take-home exercises
-    \item Instructor will give live demo for each session, and you can follow
+    \item Instructor will give a live demo, and you can follow
     along in your own Jupyter Lab instance (dual monitor / side-by-side)
     \item The URL provided to you will be available all week but will be
     shutdown at the end of the week --- ``notebooks'' can be downloaded at
@@ -118,7 +118,7 @@
 \begin{frame}{Monte Carlo Particle Transport}
   \begin{itemize}
   \item Analysis of nuclear reactors, fusion devices, radiation shielding, and
-    other problems relies on ability to solve particle transport equations
+    other problems relies on the ability to solve particle transport equations
     \begin{itemize}
     \item \emph{Deterministic methods:} discrete ordinates, method of
       characteristics, collision probability method, diffusion theory
@@ -143,7 +143,7 @@
   \resizebox{\textwidth}{!}{%
   \begin{tikzpicture}[node distance=2cm]
     \node[start] (source) {Sample source $\bm{r}, \bm{\Omega}, E$};
-    \node[process, below of=source, node distance=1.8cm] (db) {Sample distance to boundary, $d_b$};
+    \node[process, below of=source, node distance=1.8cm] (db) {Compute distance to boundary, $d_b$};
     \node[process, below of=db] (dc) {Sample distance to collision, $d_c$};
     \node[decision, below of=dc, node distance=2.3cm] (dbdc) {$d_b < d_c$?};
 
@@ -216,7 +216,7 @@
         Sample neutron from source bank\;
         Track neutron until death, at each {\bf collision} storing
         \begin{equation*}
-          n = \left \lfloor \frac{\nu\Sigma_f}{\Sigma_t} + \xi \right
+          n = \left \lfloor \frac{\nu\Sigma_f}{\Sigma_t} \right
           \rfloor \quad \text{fission sites}
         \end{equation*}\;
       }
