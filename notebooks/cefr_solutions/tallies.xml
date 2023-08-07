@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tallies>
+  <filter id="1" type="distribcell">
+    <bins>7</bins>
+  </filter>
+  <filter id="2" type="distribcell">
+    <bins>12</bins>
+  </filter>
+  <filter id="3" type="distribcell">
+    <bins>16</bins>
+  </filter>
+  <filter id="4" type="energy">
+    <bins>1e-05 0.41746 0.53158 3.9279 8.3153 13.71 22.603 37.267 61.442 101.3 167.02 275.36 454.0 748.52 1234.1 2034.7 3354.6 5530.8 9118.8 15034.0 24787.0 40868.0 67379.0 111090.0 183160.0 301970.0 497870.0 820850.0 1353400.0 2231300.0 3678800.0 6065300.0 10000000.0 14191000.0</bins>
+  </filter>
+  <tally id="1">
+    <filters>1</filters>
+    <scores>kappa-fission flux fission-q-recoverable</scores>
+  </tally>
+  <tally id="2">
+    <filters>2</filters>
+    <scores>kappa-fission flux fission-q-recoverable</scores>
+  </tally>
+  <tally id="3">
+    <filters>3</filters>
+    <scores>kappa-fission flux fission-q-recoverable</scores>
+  </tally>
+  <tally id="4">
+    <filters>4</filters>
+    <scores>flux</scores>
+  </tally>
+  <tally id="5">
+    <scores>kappa-fission</scores>
+  </tally>
+</tallies>
